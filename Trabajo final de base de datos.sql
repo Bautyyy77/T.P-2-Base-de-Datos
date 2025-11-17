@@ -1,2 +1,0 @@
-create schema fabrica_automoviles;
-use fabrica_automoviles;
